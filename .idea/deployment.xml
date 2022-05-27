@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhaomengjun@49.123.123.253:22">
+    <serverData>
+      <paths name="zhaomeengjun">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaomengjun/2021_binglang_paper/paper_code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhaomengjun@49.123.123.253:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaomengjun/2021_binglang_paper/paper_code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
